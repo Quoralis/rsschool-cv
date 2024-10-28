@@ -3,14 +3,14 @@
 **Junior Frontend**
 
 
-## CONTACT
+## CONTACTS
 
 * Phone number: + 062 151 78 28
 * Address: Serbia, Belgrade, Sandzačka 21
 * E-mail: unfeel00@gmail.com
-* GitHub: Quoralis
+* GitHub: [Quoralis](https://github.com/Quoralis)
 
-# ABOUT ME
+# **ABOUT ME**
 
 My name is Stanislav. I started my career as a manager and have spent the last five years working as a project manager.
 Recently, I became interested in programming and have been taking various courses and intensive training sessions in my
