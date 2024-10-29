@@ -1,14 +1,15 @@
 # STANISLAV TSIBULSKII
 
-**Junior Frontend**
+## **Junior Frontend**
 
 
 ## CONTACTS
 
 * Phone number: + 062 151 78 28
-* Address: Serbia, Belgrade, Sandzačka 21
-* E-mail: unfeel00@gmail.com
-* GitHub: [Quoralis](https://github.com/Quoralis)
+* Address:  Serbia, Belgrade, Sandzačka 21
+* E-mail:   unfeel00@gmail.com
+* GitHub:   [Quoralis](https://github.com/Quoralis)
+* Discord:  Stanislav(@Quoralis)
 
 ## *ABOUT ME*
 
