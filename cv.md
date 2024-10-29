@@ -59,8 +59,14 @@ function dataReverse(data) {
 * Stepik - Frontend Developer specializing in HTML, CSS, and JavaScript (in progress)
 * RS School - RS School JS/Frontend - pre School 2024Q2) ![certificate](/rsschool-cv/certificate2024_cv.bmp "certificate_2024")     
 
+## PROJECTS
+### [Audio-player](https://rolling-scopes-school.github.io/quoralis-JSFEPRESCHOOL2024Q2/audio-player/audio_player.html)
+### [Platformer](https://rolling-scopes-school.github.io/quoralis-JSFEPRESCHOOL2024Q2/random-game/random-game.html)
+### [ShelterForPets - WebPage](https://rolling-scopes-school.github.io/quoralis-JSFEPRESCHOOL2024Q2/shelter/index_main.html#)
 
 ## *LANGUAGE*
+
+
 
 * English - B1
 * Russian - native
