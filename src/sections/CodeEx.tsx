@@ -2,10 +2,12 @@ export function CodeExample() {
   return (
     <section id="code" className="mb-8">
       <h2>Code Example</h2>
-      <p className="mb-4 italic text-gray-600">Roman Numerals Converter (Codewars solution):</p>
+      <p className="mb-4 italic text-gray-600 font-medium">
+        Roman Numerals Converter (Codewars solution):
+      </p>
 
-      <pre className="relative group">
-        <code className="block">
+      <pre className="relative group bg-gray-100 p-4 rounded-lg overflow-x-auto border border-gray-200">
+        <code className="text-sm text-slate-800 leading-relaxed">
 {`class RomanNumerals {
   static romanObj = {
     M: 1000, CM: 900, D: 500, CD: 400, C: 100,
@@ -26,10 +28,10 @@ export function CodeExample() {
 
   static fromRoman(str) {
     let res = 0;
-    for (let i = 0; i < str.length; i++) {
+    for (let i = 0; i &lt; str.length; i++) {
       const curr = this.romanObj[str[i]];
       const next = this.romanObj[str[i + 1]];
-      (curr >= next || !next) ? res += curr : res -= curr;
+      (curr &gt;= next || !next) ? res += curr : res -= curr;
     }
     return res;
   }
