@@ -1,0 +1,60 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@layer base {
+	* {
+		font-family: "Montserrat", sans-serif;
+	}
+
+	html {
+		@apply bg-[#eeeeee] scroll-smooth text-[15px];
+		line-height: 1.5;
+	}
+
+	body {
+		@apply my-8 mx-auto w-[90%] max-w-[1100px];
+	}
+
+	section {
+		@apply bg-white rounded-2xl p-6 mb-6;
+	}
+
+	code {
+		font-family: inherit;
+	}
+
+	pre {
+		@apply bg-gray-200 p-4 rounded-lg overflow-x-auto text-xs border border-gray-300;
+		font-family: "Courier New", Courier, monospace;
+	}
+
+	nav ul {
+		@apply flex flex-row gap-8 m-0 p-0 list-none;
+	}
+
+	a {
+		@apply text-white no-underline font-medium transition-colors duration-300;
+	}
+
+	a:hover {
+		@apply text-yellow-500;
+	}
+}
+
+@layer components {
+	h1 {
+		@apply text-2xl m-0 font-semibold;
+	}
+
+	h2 {
+		@apply text-lg mb-4 border-b border-gray-300 pb-1 font-semibold;
+	}
+	.icon {
+		@apply w-5 h-5 flex-shrink-0 object-contain inline-block mr-3 align-middle;
+
+		@apply opacity-90;
+	}
+	.project-item {
+		@apply flex rounded-lg bg-zinc-50 p-3 justify-between border hover:text-yellow-500 transition-colors cursor-pointer;
+	}
+}
