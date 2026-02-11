@@ -6,7 +6,7 @@ export function Stack() {
         <li><strong>Core:</strong> JS, TS, HTML5, SCSS</li>
         <li><strong>Frameworks:</strong> React, Next.js, RTK</li>
         <li><strong>Styling:</strong> Tailwind, Bootstrap</li>
-        <li><strong>Tools:</strong> GitHub, ESLint, Prettier, Husky</li>
+        <li><strong>Tools:</strong> GitHub, ESLint, Prettier</li>
         <li><strong>Testing:</strong> Vitest</li>
         <li><strong>IDE:</strong> WebStorm</li>
       </ul>
