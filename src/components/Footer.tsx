@@ -27,7 +27,7 @@ export function Footer() {
           className="transition-transform hover:scale-105"
         >
           <img
-            src="/icons/rss-logo.svg"
+            src="icons/rss-logo.svg"
             alt="RS School"
             className="h-8 w-auto"
           />
